@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Projeto_2D_Youtube"
-run/main_scene="uid://b1pnu8t8v4apq"
+run/main_scene="uid://rrktmrf6g3gf"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 

@@ -1,4 +1,4 @@
-[gd_scene format=4 uid="uid://b1pnu8t8v4apq"]
+[gd_scene format=4 uid="uid://cfa3jhl8o8mc1"]
 
 [ext_resource type="PackedScene" uid="uid://brja8y1siafg0" path="res://entities/player.tscn" id="1_5kiuu"]
 [ext_resource type="TileSet" uid="uid://ce167tdypv656" path="res://Tiles/terrain.tres" id="2_33cqm"]
