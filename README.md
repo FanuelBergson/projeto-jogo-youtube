@@ -17,7 +17,8 @@ Trata-se de um jogo de plataforma 2D desenvolvido com foco em mecânicas fluidas
 * `scripts/`: Controladores globais e lógicas de movimentação.
 
 ## Como Executar
-1. Baixe e instale o [Godot Engine 4.x](https://godotengine.org/).
-2. Clone este repositório em sua máquina:
-   ```bash
-   git clone [https://github.com/FanuelBergson/projeto-jogo-youtube.git](https://github.com/FanuelBergson/projeto-jogo-youtube.git)
+1. Baixe e instale a Godot Engine 4.x (https://godotengine.org/).
+2. Clone este repositório em sua máquina com o comando:
+   git clone https://github.com/FanuelBergson/projeto-jogo-youtube.git
+3. Abra a Godot Engine, clique no botão Import e selecione o arquivo project.godot na pasta raiz do projeto clonado.
+4. Clique em Import & Edit, e com o projeto aberto, pressione F5 no teclado para rodar o jogo.
