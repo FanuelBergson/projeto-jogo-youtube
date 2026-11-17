@@ -1,0 +1,4 @@
+Projeto: Jogo de Plataforma 2D (Godot Engine)
+Versão: 1.0.0-rc1
+Status: Concluído para Entrega do Curso de Extensão CEFET-MG
+Data: Novembro de 2026
